@@ -330,7 +330,7 @@ HerSafar/
 - PHP 8.0 or higher  
 - MySQL Server  
 - Apache Server  
-- XAMPP / WAMP / LAMP  
+- XAMPP 
 
 ---
 
