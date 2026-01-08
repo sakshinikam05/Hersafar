@@ -522,7 +522,7 @@ Published strictly for **academic, portfolio, and evaluation purposes**.
 **Sakshi Sudhir Nikam**  
 Primary Developer & Project Lead 
 
-**Sukhada Joshi**  
+**Sukhada Deepak Joshi**  
 Contributor & Development Support | 
 GitHub: https://github.com/sukhadajoshi13
 
