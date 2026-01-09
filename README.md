@@ -19,7 +19,7 @@ The platform focuses on:
 - 👁️ **Complete visibility**
 - 🛠️ **Strong admin oversight**
 
-ensuring women can coordinate rides, travel in groups, and communicate safely within a regulated environment.
+Ensuring women can coordinate rides, travel in groups, and communicate safely within a regulated environment.
 
 > 🔒 Access restricted strictly to women users only  
 > 🛡️ Every activity is monitored and controlled by administrators  
